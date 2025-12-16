@@ -1,0 +1,2 @@
+# No external deps; Python 3.9+
+dataclasses
